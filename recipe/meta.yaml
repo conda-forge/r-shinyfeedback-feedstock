@@ -26,11 +26,13 @@ requirements:
     - cross-r-base {{ r_base }}    # [build_platform != target_platform]
   host:
     - r-base
+    - r-fontawesome
     - r-htmltools
     - r-jsonlite
     - r-shiny
   run:
     - r-base
+    - r-fontawesome
     - r-htmltools
     - r-jsonlite
     - r-shiny
