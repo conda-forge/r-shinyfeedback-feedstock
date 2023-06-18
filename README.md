@@ -1,11 +1,11 @@
-About r-shinyfeedback
-=====================
+About r-shinyfeedback-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinyfeedback-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/merlinoa/shinyFeedback
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinyfeedback-feedstock/blob/main/LICENSE.txt)
 
 Summary: Easily display user feedback in Shiny apps.
 
